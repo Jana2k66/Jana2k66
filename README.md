@@ -1,9 +1,9 @@
 <h1 align="center">Hello , I'm JANA S</h1>
 <h3 align="center">A passionate Software Engineer from Salem</h3>
 
-- 🔭 I’m currently working on **ML Projects**
+- 🔭 I’m currently working on **Java Projects**
 
-- 🌱 I’m currently learning **Tools for AI and ML**
+- 🌱 I’m currently learning **Tools for ML**
 
 - 💬 Ask me about **Projects**
 
